@@ -1,0 +1,9 @@
+.main-footer {
+    color: rgb(255, 255, 255);
+    background: linear-gradient(left, rgba(255,255,255,0), rgb(247, 164, 10)), url(https://image.freepik.com/vector-gratis/ilustracion-fondo-poligonal-geometrico-colorido-abstracto_1035-18009.jpg);
+    background: linear-gradient(to right, rgba(255,255,255,0), rgb(247, 164, 10)), url(https://image.freepik.com/vector-gratis/ilustracion-fondo-poligonal-geometrico-colorido-abstracto_1035-18009.jpg);
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

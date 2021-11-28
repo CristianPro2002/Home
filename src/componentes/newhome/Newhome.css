@@ -1,0 +1,161 @@
+.PERFIL {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+  
+}
+.NOMBRE {
+    font-size: 17px;
+    color: white;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    text-align: center;
+}
+.CONTENEDOR {
+    text-align: center;
+    width: 18%;
+    height: 100%;
+    background-color: rgb(163, 38, 38);
+    border-radius: 0px 0px 8px 0px;
+}
+
+.Iconos{
+
+    text-align: center;
+}
+
+.ImP {
+    border-radius: 50%;
+}
+
+
+.Chabil {
+   
+    width: 82%;
+    height: 100%;
+    float: right;
+}
+.TituloH {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 5%;
+}
+
+.row {
+    text-align: center;
+    width: 100%;
+    padding-left: 3%;
+}
+
+.Pacerca {
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+}
+
+.UBICACION {
+    color: gray;
+}
+
+.INFOB{
+    
+    text-align: justify;
+    margin-left: 10%;
+    
+}
+
+.Bresumen {
+    background-color: orange;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-color: orange;
+}
+
+.Cbarras {
+   margin-left: auto;
+   margin-right: auto;
+   padding: 5%;
+    
+
+}
+
+.Conbarra {
+ 
+    width: 50%;
+}
+
+.Conbarra2 {
+    
+    float: right;
+    width: 50%;
+}
+
+.linkedin {
+    margin-left: 4%;
+    color: rgb(255, 255, 255);
+}
+
+.whatsapp {
+    margin-left: 4%;
+    color: rgb(255, 255, 255);
+}
+
+.facebook {
+    margin-left: 4%;
+    color: rgb(255, 255, 255);
+}
+
+.instagram {
+    margin-left: 4%;
+    color: rgb(255, 255, 255);
+}
+
+.TextoP {
+ font-weight: bold;
+ color: gray;
+}
+
+.Barra1 {
+    width: 90%;
+}
+
+.Barra2 {
+    width: 90%;
+}
+
+.Barra3 {
+    width: 90%;
+}
+
+.Barra4 {
+    width: 90%;
+}
+
+.FechaN{
+color: white;
+}
+
+.UBIN{
+color: white;
+}
+
+.CORREON{
+color: white;
+}
+
+.Prin {
+    height:100%;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+}
+
+.col {
+    box-shadow:
+    inset 0 -3em 3em rgba(0,0,0,0.1),
+    0 0  0 2px rgb(255,255,255),
+          0.3em 0.3em 1em rgba(0,0,0,0.3); 
+}
+
+

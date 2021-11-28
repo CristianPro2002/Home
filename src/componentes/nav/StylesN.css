@@ -1,0 +1,31 @@
+.SENA {
+    font-size: 35px;
+    color: white;
+}
+
+.Navbar {
+    background: linear-gradient(left, rgba(255,255,255,0), rgb(247, 164, 10)), url(https://image.freepik.com/vector-gratis/ilustracion-fondo-poligonal-geometrico-colorido-abstracto_1035-18009.jpg);
+    background: linear-gradient(to right, rgba(255,255,255,0), rgb(247, 164, 10)), url(https://image.freepik.com/vector-gratis/ilustracion-fondo-poligonal-geometrico-colorido-abstracto_1035-18009.jpg);
+}
+
+.Binicio {
+    width: 250px;
+    margin-left: 5%;
+}
+
+.Bperfil{
+    width: 250px;
+    margin-left: 5%;
+
+}
+
+.Bconocenos {
+    width: 250px;
+    margin-left: 5%;
+    
+}
+
+.SN {
+    text-decoration: none;
+}
+
